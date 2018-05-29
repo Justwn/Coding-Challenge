@@ -1,0 +1,15 @@
+[2]
+time diff for 107.23.85.jfd= 
+0
+2
+time diff for 107.23.85.jfd= 
+1
+2
+time diff for 107.23.85.jfd= 
+2
+2
+time diff for 107.178.195.aag= 
+2
+2
+{'101.81.133.jja': 1, '106.120.173.jie': 6, '107.23.85.jfd': 2, '107.178.195.aag': 7, '108.91.91.hbc': 10}
+[{'count': 1, 'index': 1, 'firstAccess': '2017-06-30 00:00:00', 'cik': '1608552.0', 'ip': '101.81.133.jja', 'extention': '-index.htm', 'accession': '0001047469-17-004337', 'duration': 1, 'time': '00:00:00', 'date': '2017-06-30', 'lastAccess': '2017-06-30 00:00:00'}, {'count': 4, 'index': 2, 'firstAccess': '2017-06-30 00:00:00', 'cik': '1027281.0', 'ip': '107.23.85.jfd', 'extention': '-index.htm', 'accession': '0000898430-02-001167', 'duration': 3, 'time': '00:00:00', 'date': '2017-06-30', 'lastAccess': '2017-06-30 00:00:03'}, {'count': 1, 'index': 5, 'firstAccess': '2017-06-30 00:00:01', 'cik': '1295391.0', 'ip': '108.91.91.hbc', 'extention': '.txt', 'accession': '0001209784-17-000052', 'duration': 1, 'time': '00:00:01', 'date': '2017-06-30', 'lastAccess': '2017-06-30 00:00:01'}, {'count': 1, 'index': 6, 'firstAccess': '2017-06-30 00:00:02', 'cik': '1470683.0', 'ip': '106.120.173.jie', 'extention': 'v385454_20fa.htm', 'accession': '0001144204-14-046448', 'duration': 1, 'time': '00:00:02', 'date': '2017-06-30', 'lastAccess': '2017-06-30 00:00:02'}, {'count': 2, 'index': 7, 'firstAccess': '2017-06-30 00:00:02', 'cik': '1068124.0', 'ip': '107.178.195.aag', 'extention': '-xbrl.zip', 'accession': '0000350001-15-000854', 'duration': 2, 'time': '00:00:02', 'date': '2017-06-30', 'lastAccess': '2017-06-30 00:00:04'}, {'count': 1, 'index': 10, 'firstAccess': '2017-06-30 00:00:04', 'cik': '1618174.0', 'ip': '108.91.91.hbc', 'extention': '.txt', 'accession': '0001140361-17-026711', 'duration': 1, 'time': '00:00:04', 'date': '2017-06-30', 'lastAccess': '2017-06-30 00:00:04'}]
